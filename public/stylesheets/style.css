@@ -1,0 +1,30 @@
+body {
+    color: black;
+    background-color:aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+  
+
+  h1 {
+    color: darkblue;
+  }
+  h3 {
+    color: red;
+  }
+
+  h4 {
+    color: green;
+  }
+
+
+  a:link, a:visited {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: red;
+    text-decoration: none;
+  }
+
+  a:hover {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkred;
+    text-decoration: none;
+  }
